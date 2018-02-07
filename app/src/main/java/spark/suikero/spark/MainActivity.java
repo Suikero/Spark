@@ -31,9 +31,6 @@ public class MainActivity extends AppCompatActivity {
         adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, list);
         listFirst.setAdapter(adapter);
 
-        String text = "aas";
-        String asd = "ads";
-        String juu = "asd";
     }
 
     @Override
